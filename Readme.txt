@@ -16,8 +16,7 @@ Usage:
 1. Preparing training data: put rainy images into "/input"
 
 2.Run
-1）You can run testrain100H.py and testreal.py, model is saved in "/logs/Rain100H"; You can run testrain100L.py and testrain12.py, model is saved in "/logs/Rain100L";
-    You can run testrain1400.py, model is saved in "/logs/Rain1400"; You can run testrain800.py, model is saved in "/logs/Rain800".
+1）You can run testrain100H.py and testreal.py, model is saved in "/logs/Rain100H"; You can run testrain100L.py and testrain12.py, model is saved in "/logs/Rain100L"; You can run testrain1400.py, model is saved in "/logs/Rain1400"; You can run testrain800.py, model is saved in "/logs/Rain800".
 
 2）Rain100H and Realrain use the same training model Rain100H.
 
