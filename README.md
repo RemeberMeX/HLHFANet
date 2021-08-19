@@ -1,4 +1,4 @@
-This is a re-implementation of our paper [1] and for non-commercial use only. 
+This is a re-implementation of our paper and for non-commercial use only. 
 	----------------------------------------------------------------
 	dataset    Rain100H   Rain 100L   Rain12    Rain1400    Rain800
 	----------------------------------------------------------------
